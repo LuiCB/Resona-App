@@ -1,0 +1,23 @@
+{
+  "user_id": "user-123",
+  "recording_id": "rec-991",
+  "acoustic_features": {
+    "speaking_rate_wpm": 122.4,
+    "mean_pitch_hz": 196.1,
+    "pitch_variance": 24.3,
+    "pause_ratio": 0.15,
+    "energy_mean": 0.61
+  },
+  "semantic_features": {
+    "sentiment_label": "reflective",
+    "sentiment_score": 0.74,
+    "abstraction_score": 0.69,
+    "certainty_score": 0.58,
+    "emotion_keywords": ["curious", "hopeful"]
+  },
+  "quality": {
+    "snr_db": 20.3,
+    "clipped": false,
+    "language": "en"
+  }
+}

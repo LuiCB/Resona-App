@@ -1,0 +1,19 @@
+name: Resona
+options:
+  bundleIdPrefix: com.resona
+  deploymentTarget:
+    iOS: "17.0"
+  xcodeVersion: "16.0"
+
+targets:
+  Resona:
+    type: application
+    platform: iOS
+    sources:
+      - path: Resona
+    settings:
+      base:
+        INFOPLIST_FILE: Resona/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: com.resona.app
+        SWIFT_VERSION: "5.9"
+        DEVELOPMENT_TEAM: ""

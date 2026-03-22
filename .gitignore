@@ -1,0 +1,25 @@
+# Python
+backend/.venv/
+backend/resona.db
+__pycache__/
+*.pyc
+
+# Xcode
+frontend/Resona.xcodeproj/
+frontend/build/
+*.xcuserdata
+DerivedData/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+.venv
+
+# database
+.db
