@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="app_preview/app_icon.png" alt="Resona" width="120" />
-</p>
-
 # Resona
 
 **Voice-first dating for deeper human connection.**
@@ -27,7 +23,10 @@ What's missing is the most human signal of all: **voice**. How someone speaks â€
 
 Resona flips the model: **hear someone before you see them**. Instead of swiping on photos, you answer a short series of voice prompts â€” and the app listens.
 
+
 <p align="center">
+  <img src="app_preview/app_icon.png" alt="Resona" width="280" />
+  &nbsp;&nbsp;
   <img src="app_preview/starting_page.png" alt="Starting Page" width="280" />
 </p>
 
